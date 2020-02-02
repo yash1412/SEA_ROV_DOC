@@ -17,7 +17,7 @@
  i.e it can differentiate between the image of the lamp and the human in a single picture.<br/>
  For more information click [computer vision](https://algorithmia.com/blog/introduction-to-computer-vision)
  ### steps taken
- 1. I have installed pyhton latest version from [python](https://www.python.org/downloads/)
+ 1. I have installed python latest version from [python](https://www.python.org/downloads/)
  2. Than in command prompt i have written command **pip install opencv-python** and in this way your opencv-python will be installed.
  3. As opencv-python library is installed and you can import this library for testing, this you can done by going to python and then use command **import cv2**.
  4. for accessing the camera first i have opened python IDLE for writing a code.
