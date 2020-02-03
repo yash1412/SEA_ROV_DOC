@@ -2,7 +2,7 @@
 ## Task 1
 ### opencv
 1. insatll opencv
-   - create virtual environment
+    - create virtual environment
    - pip insatll opencv-python
 2. run opencv to access camera
 ### Resources learnt
@@ -12,15 +12,27 @@
       Coloured image has 3d matrix and black and white image has 2d matrix.
       There are two types of images like grey scale images and coloured images.
       In coloured images we have three channels which are R for red , G for green ,B for blue and grey scale images have only one channel.<br/>
- For more information [opencv-python](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_table_of_contents_setup/py_table_of_contents_setup.html#py-table-of-content-setup)
+ For more information click the given link [opencv-python](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_table_of_contents_setup/py_table_of_contents_setup.html#py-table-of-content-setup)
  2. ***computer vision*** enables the computer to detect itself by its intelligence about the nature of the image
  i.e it can differentiate between the image of the lamp and the human in a single picture.<br/>
- For more information click [computer vision](https://algorithmia.com/blog/introduction-to-computer-vision)
+ For more information click the given link [computer vision](https://algorithmia.com/blog/introduction-to-computer-vision)
  ### steps taken
  1. Install python latest version from [python](https://www.python.org/downloads/)
  2. Than for pip installation, open command prompt and write command **pip install opencv-python** for the pip insatllation.
- 3. As opencv-python library is installed and you can import this library for testing, this can be done by going to python and then use command **import cv2**.
+ 3. As opencv-python library is installed and you can import this library for testing, this can be done by going to python and then use command **import cv2**.[Learn more](https://www.youtube.com/watch?v=tiTud_BlozA&t=4s)
  4. For accessing the camera first open the python IDLE for writing a code.
  5. you can write the code from the given link [access camera](https://www.e-consystems.com/blog/camera/how-to-access-cameras-using-opencv-with-python/)
  6. you can now run the program and you will able to access the camera.<br/>
  ***NOTE:*** *make sure about the indentation, the code should be correctly indented otherwise it will show error.*
+## Task 2
+1. Learn Git and Github.
+2. Write documentation of all the learnings in markdown format.
+### Resources learnt
+1. Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.
+   - Some basic commands are:
+    ```
+    git init
+    git add
+    git commit
+    ```
+2. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. [Learn more](https://www.youtube.com/watch?v=iR5WIknxdkY)
