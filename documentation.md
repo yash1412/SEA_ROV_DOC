@@ -17,10 +17,10 @@
  i.e it can differentiate between the image of the lamp and the human in a single picture.<br/>
  For more information click [computer vision](https://algorithmia.com/blog/introduction-to-computer-vision)
  ### steps taken
- 1. I have installed python latest version from [python](https://www.python.org/downloads/)
- 2. Than in command prompt i have written command **pip install opencv-python** and in this way your opencv-python will be installed.
- 3. As opencv-python library is installed and you can import this library for testing, this you can done by going to python and then use command **import cv2**.
- 4. for accessing the camera first i have opened python IDLE for writing a code.
- 5. Than on [access camera](https://www.e-consystems.com/blog/camera/how-to-access-cameras-using-opencv-with-python/) i found the code and and written on python IDLE.
- 6. you can now run the program and you will able access the camera.<br/>
+ 1. Install python latest version from [python](https://www.python.org/downloads/)
+ 2. Than for pip installation, open command prompt and write command **pip install opencv-python** for the pip insatllation.
+ 3. As opencv-python library is installed and you can import this library for testing, this can be done by going to python and then use command **import cv2**.
+ 4. For accessing the camera first open the python IDLE for writing a code.
+ 5. you can write the code from the given link [access camera](https://www.e-consystems.com/blog/camera/how-to-access-cameras-using-opencv-with-python/)
+ 6. you can now run the program and you will able to access the camera.<br/>
  ***NOTE:*** *make sure about the indentation, the code should be correctly indented otherwise it will show error.*
