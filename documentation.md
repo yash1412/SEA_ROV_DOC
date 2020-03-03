@@ -36,3 +36,15 @@
     git commit
     ```
 2. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. [Learn more](https://www.youtube.com/watch?v=iR5WIknxdkY)
+## Task 3
+### Color detection
+> 1. color detection using opencv-python
+> 2. Contouring objects that occupies the largest area of the particular color
+### Resources learnt
+**Visual studio code**-Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.[learn more](https://code.visualstudio.com/docs)
+### Steps Taken
+1. Install visual studio code [install](https://code.visualstudio.com/) and download ***python extention*** in it or you can use any other editor which is already installed in your pc.
+2. Create a new python file and write a code for color detection.
+[![color detection](http://img.youtube.com/vi/Q0IPYlIK-4A/0.jpg)](https://www.youtube.com/watch?v=Q0IPYlIK-4A&t=1s)
+3. Integrate the code for countouring the largest area of the particular color with the color detection code.
+[![contours](http://img.youtube.com/vi/_aTC-Rc4Io0/0.jpg)](https://www.youtube.com/watch?v=_aTC-Rc4Io0&t=623s)
